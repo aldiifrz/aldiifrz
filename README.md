@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiifrz&show_icons=true&locale=en&layout=compact" alt="aldiifrz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiifrz&show_icons=true&locale=en" alt="aldiifrz" /></p>
+
+<p> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=froza_&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) </p>

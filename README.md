@@ -15,8 +15,6 @@
 
 <h3 align="left">Stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldiifrz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="aldiifrz" /></p>
-
-<h3 align="left"> Top Used: </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiifrz&show_icons=true&theme=dracula&locale=en" alt="aldiifrz" /></p>
 
 
